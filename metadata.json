@@ -1,0 +1,6 @@
+{
+  "name": "Toy Designer Studio",
+  "description": "Interactive Year 1 digital learning game where pupils explore a toy shelf, match describing words, build sentences, and create labels for the class Toy Corner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
